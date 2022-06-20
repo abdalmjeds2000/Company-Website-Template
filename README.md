@@ -11,4 +11,3 @@ Features:
   - Flex Box.
   - CSS Grid System.
   - The template is fully responsive with Mobiles.
-  - A special window to control the colors of the site, backgrounds, and others.
