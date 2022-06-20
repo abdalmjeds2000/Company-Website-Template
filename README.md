@@ -6,8 +6,9 @@ Company Template, to HTML5, CSS3 and JS website.
 Features:
   - HTML5.
   - CSS3.
-  - Animations.
   - JavaScript.
+  - Animations.
+  - Fontawesome 6.
   - Flex Box.
   - CSS Grid System.
   - The template is fully responsive with Mobiles.
